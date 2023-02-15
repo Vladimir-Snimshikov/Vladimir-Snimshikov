@@ -17,7 +17,8 @@
 <p>
 На данный момент нахожусь на 9-ом месяце курса "веб разработчик" от Я.Практикум. Параллельно смотрю видео на yuoTube на тему фронт-энд разработки, решаю задачки на codewars, делаю свой сайт портфолио на react и буквально каждый день узнаю и пробую что-то новое. Открыт к предложениям.
 </p>
-<img align="left" alt="codewars" width="300px" src="https://www.codewars.com/users/Gi40/badges/large" />
+
+
 ## Мой стек
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,6 +31,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+<img  alt="codewars" width="300px" src="https://www.codewars.com/users/Gi40/badges/large" />
 
 <h3>Контакты:</h3>
 <div style="display:flex; gap:20px">  
