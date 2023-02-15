@@ -17,7 +17,7 @@
 <p>
 На данный момент нахожусь на 9-ом месяце курса "веб разработчик" от Я.Практикум. Параллельно смотрю видео на yuoTube на тему фронт-энд разработки, решаю задачки на codewars, делаю свой сайт портфолио на react и буквально каждый день узнаю и пробую что-то новое. Открыт к предложениям.
 </p>
-[<img align="left" alt="codewars" width="300px" src="https://www.codewars.com/users/Gi40/badges/large">][codewars]
+[<img align="left" alt="codewars" width="300px" src="https://www.codewars.com/users/Gi40/badges/large" />][codewars]
 ## Мой стек
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
